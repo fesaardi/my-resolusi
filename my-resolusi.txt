@@ -1,5 +1,5 @@
 Resolusi saya
 -menjadi ios dev
 -belajar fundamental saham
--pro
--belajar struktur daata
+-belajar framework laravel
+-belajar react
