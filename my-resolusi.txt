@@ -5,3 +5,4 @@ Resolusi saya
 -belajar struktur daata
 -belajar framework react native
 -belajar framework flutter
+-belajar web
