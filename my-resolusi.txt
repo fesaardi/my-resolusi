@@ -3,3 +3,6 @@ Resolusi saya
 -belajar fundamental saham
 -pro
 -belajar struktur daata
+-belajar framework react native
+-belajar framework flutter
+-belajar web
